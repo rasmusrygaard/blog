@@ -1,6 +1,0 @@
----
-categories: instagram
-cover: 20141115_Sonoma.jpg
-date: "2014-11-15T12:00:00Z"
-title: Sonoma
----

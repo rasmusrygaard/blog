@@ -1,6 +1,0 @@
----
-categories: instagram
-cover: 20150609_On_Track.jpg
-date: "2015-06-09T12:00:00Z"
-title: On Track
----

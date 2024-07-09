@@ -1,6 +1,0 @@
----
-categories: instagram
-cover: 20141017_pumpkin.jpg
-date: "2014-10-17T12:00:00Z"
-title: pumpkin
----

@@ -3,3 +3,10 @@ disablePathToLower: true
 languageCode: en-us
 title: rasmusrygaard
 theme: hugo-theme-console
+
+params:
+  navlinks:
+    - name: "posts/"
+      url: "posts/"
+    - name: "photos/"
+      url: "photos/"
