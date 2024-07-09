@@ -3,4 +3,6 @@ categories: instagram
 cover: 20141011_pumpkins.jpg
 date: "2014-10-11T12:00:00Z"
 title: pumpkins
+image: 20141011_pumpkins.jpg
+
 ---

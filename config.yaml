@@ -1,4 +1,5 @@
 baseURL: http://rasmusrygaard.com.com
 disablePathToLower: true
 languageCode: en-us
-title: Rasmus Rygaard
+title: rasmusrygaard
+theme: hugo-theme-console
