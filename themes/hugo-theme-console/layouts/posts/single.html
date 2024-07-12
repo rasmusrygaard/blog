@@ -3,10 +3,10 @@
 
 {{ .PublishDate.Format "Jan. 2, 2006" }}
 {{ with .Params.linkedin }}
-    // <a href="{{ . }}">Linkedin</a>
+    <a href="{{ . }}">Linkedin</a>
 {{ end }}
 {{ with .Params.twitter }}
-    // <a href="{{ . }}">Twitter</a>
+    <a href="{{ . }}">Twitter</a>
 {{ end }}
 <br/><br/>
 {{ .Content }}
