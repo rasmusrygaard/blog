@@ -1,0 +1,10 @@
+{
+  "name": "Moon Check",
+  "short_name": "MoonCheck",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#b8e9ff",
+  "theme_color": "#6ab5ff",
+  "description": "Guide toddlers to the moon with playful cues and friendly messages.",
+  "icons": []
+}
